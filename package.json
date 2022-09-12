@@ -1,5 +1,5 @@
 {
-  "name": "example-npm-hook",
+  "name": "@osmergit/example-npm-hook",
   "version": "1.0.0",
   "description": "npm start",
   "main": "index.js",
